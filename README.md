@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FannyEste
-- 👀 I’m interested in UI/UX Java script, HTML & CSS
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate in creative and new projects 
-- 📫 How to reach me estefannymorana@gmail.com 
+👋 Hi, I’m @FannyEste.
+👀 I’m interested in frontend development, UX/UI design, and graphic design.
+🌱 I’m currently studying web development.
+💞️ I’m looking to collaborate on creative and innovative projects.
+📫 You can reach me at estefannymorana@gmail.com.
 
 <!---
 FannyEste/FannyEste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
