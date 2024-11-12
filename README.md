@@ -1,7 +1,6 @@
-👋 Hi, I’m @FannyEste.
-👀 I’m interested in frontend development, UX/UI design, and graphic design.
-🌱 I’m currently studying web development.
-💞️ I’m looking to collaborate on creative and innovative projects.
+I’m interested in frontend development, UX/UI design, and graphic design.
+I’m currently studying web development.
+I’m looking to collaborate on creative and innovative projects.
 📫 You can reach me at estefannymorana@gmail.com.
 
 <!---
